@@ -4,7 +4,7 @@
 This project includes relationships between 4 different objects to learn basic Hibernate concepts and usage. Postgresql was used as database in the project. Many different HQLs were written among the methods.
 
 
-## Acknowledgements
+## Techologies
 
  - [Hibernate](https://hibernate.org)
  - [Postgresql](https://www.postgresql.org)
